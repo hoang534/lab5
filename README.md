@@ -1,1 +1,0 @@
-[![Build Status](https://travis-ci.com/hoang534/lab5.svg?branch=master)](https://travis-ci.com/hoang534/lab5)
